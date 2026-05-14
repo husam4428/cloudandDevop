@@ -46,3 +46,15 @@ Access InstructionsMessage Collector (App 1): http://localhost:5000   Dashboard 
 
 
 
+
+
+\## Student Information
+
+\- \*\*Name:\*\* \[Your Name]
+
+\- \*\*ID:\*\* \[Your ID]
+
+
+
+&#x20; 
+
