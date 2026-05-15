@@ -42,19 +42,23 @@ docker-compose up --build -d
 
 
 
-Access Instructions
+
+
+Access Instructions: 
 Message Collector (App 1):
 http://localhost:5000
 Dashboard (App 2):
 http://localhost:5001
-Technologies Used
+
+Technologies Used:
 Docker & Docker Compose
 Redis
 Python Flask
+
+
 Student Information
 Name: Hossam Ahmed
 ID: 4428
 Name: Abdulmuez Essam
 ID: 4913
-```bash
-cd cloudandDevop
+
